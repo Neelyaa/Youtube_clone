@@ -4,4 +4,5 @@
 <p align=center><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></p>
-<img src="https://github.com/Neelyaa/Youtube_clone/assets/100840997/77a4784c-405d-49bd-8d4c-b5b5d212a6b4" />
+<img src="https://github.com/Neelyaa/Youtube_clone/assets/100840997/a75effde-95ac-481b-b13d-0f8ab9af7f59" />
+
